@@ -15,7 +15,7 @@ A [Front-End Project](https://frontend.turing.io/projects/module-1/intention-tim
 
 The Iteration Timer application allows a user to set goals for their health and productivity, tied to an amount of time. Users will select an activity category, enter a short description of their goal, set the amount of time they want to spend on that activity, and start the timer. The app will then log that activity to help the user keep track of how they have been spending their time.
 
-The site is accessible at [here](https://m1073496.github.io/intention-timer).
+The site is accessible at [here](https://knees4bees.github.io/intention-timer).
 
 Project requirements can be found [here](https://frontend.turing.io/projects/module-1/intention-timer-group.html).
 
@@ -101,7 +101,6 @@ Project requirements can be found [here](https://frontend.turing.io/projects/mod
 
 ## Resources
 * Project Description: https://frontend.turing.io/projects/module-1/intention-timer-group.html
-* Project Original GitHub Repo: https://m1073496.github.io/intention-timer
-* Team GitHub Repo: https://github.com/m1073496/intention-timer
-* GitHub Hosted URL: https://m1073496.github.io/intention-timer
+* Team Original GitHub Repo: https://github.com/m1073496/intention-timer
+* GitHub Hosted URL: https://knees4bees.github.io/intention-timer
 * DTR: https://gist.github.com/stevecalla/3fb252196252d1794bca51c325119d84
